@@ -1,1 +1,1 @@
-solutions to C low level debugging tasks
+Solution to c low level programming debugging tasks
