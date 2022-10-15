@@ -56,7 +56,7 @@ void print_f(va_list f)
  *
  * Return: void
  */
-void print_all(comst char * const format, ...)
+void print_all(const char * const format, ...)
 {
 	unsigned int i, j;
 	print_t p[] = {
